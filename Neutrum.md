@@ -1,3 +1,5 @@
+<h1 style="font-size: 4em">Das inklusive Neutrum</h1>
+
 Derzeit sind über zwanzig Möglichkeiten und Varianten der geschlechtergerechten Gestaltung deutscher Sprache in Gebrauch. Alle diese Formen werden letztlich allerdings abgelehnt, entweder von der Gesellschaft für deutsche Sprache, dem deutschen Rechtschreibrat oder von Verbänden der vielen Millionen in Bezug auf Sprache benachteiligter Menschen wie Seh- oder Hörgeschädigte und Menschen mit Leseschwäche. Zudem bringen viele Formen eine binäre Geschlechtervorstellung zum Ausdruck, die mit dem Beschluss des Deutschen Bundesverfassungsgerichts 2017 obsolet wurde.
 
 In diesem Artikel wird die Problematik eingehender behandelt und durch Quellen belegt, auf Basis der identifizierten Erfordernisse eine Alternative für die geschlechtergerechte bzw. geschlechtsneutrale Gestaltung deutscher Sprache logisch hergeleitet, mit ähnlichen Ansätzen verglichen und schließlich gegen andere Varianten geprüft.
@@ -170,7 +172,7 @@ Die Satzfolge „Die Müllers sind Mediziner. Ihre Kinder sind alle Ärzte gewor
 1.  „Frauen sind die besseren Autofahrer“ ([Kubelik, 2015, S.105](#kubelik-thomas-2015))  
 → **„Frauen sind die besseren Autofahreris“**  
 
-# Fazit
+# 5. Fazit
 Das inklusive Neutrum beseitigt elegant alle Probleme, die anderen Ansätzen innewohnen. Die Formulierungen werden nicht aufgebläht, sondern werden teilweise gar kürzer, es sind alle Geschlechter angesprochen, nicht nur zwei oder gar keines, es entfallen irritierende Zeichen, es lässt sich leicht und völlig gewöhnlich sprechen und es entstehen keine Missverständnisse oder inkorrekten Formulierungen. Hinzu kommt, dass der Sprachklang des Deutschen, häufig als sehr hart und humorlos wahrgenommen, aufgelockert und leichter wird. Es kommt ein Schweizer oder gar südländischer Einschlag dazu, der sympathisch wirkt.  
 
 ## Reichhaltigkeit
@@ -187,7 +189,7 @@ Sofern Hochschulen sich aber dafür entscheiden, eine geschlechtergerechte Schre
 ## Bedenken
 Abschließend soll noch einmal die Gesellschaft für deutsche Sprache zitiert werden, die zur Nutzung des Neutrums lediglich das Bedenken hat, es "... dürfte in den Augen vieler nicht geeignet sein, Menschen zu bezeichnen." Es wird kein weiteres Argument ins Feld geführt als die Vermutung mangelnder Akzeptanz. Diese Vermutung kann schon jetzt falsch sein und wird durch den Einsatz des inklusiven Neutrums an Bildungseinrichtungen eine Korrektur erfahren. Zudem darf sicher ebenso vermutet werden, dass es schon jetzt in den Augen vieler eher schmeichelhaft ist, als "das Genie" bezeichnet zu werden.
 
-# Quellen
+# 6. Quellen
 ## AA, 2020
 (Auswärtiges Amt) German as a foreign language, 2020, https://www.auswaertiges-amt.de/en/newsroom/news/german-as-a-foriegn-language/2347090, Zugriff 13.5.2021  
 
