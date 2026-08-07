@@ -1,4 +1,4 @@
-<h1 style="font-size: 4em">Das inklusive Neutrum</h1>
+<h1 style="font-size: 3em">Das inklusive Neutrum</h1>
 
 Derzeit sind über zwanzig Möglichkeiten und Varianten der geschlechtergerechten Gestaltung deutscher Sprache in Gebrauch. Alle diese Formen werden letztlich allerdings abgelehnt, entweder von der Gesellschaft für deutsche Sprache, dem deutschen Rechtschreibrat oder von Verbänden der vielen Millionen in Bezug auf Sprache benachteiligter Menschen wie Seh- oder Hörgeschädigte und Menschen mit Leseschwäche. Zudem bringen viele Formen eine binäre Geschlechtervorstellung zum Ausdruck, die mit dem Beschluss des Deutschen Bundesverfassungsgerichts 2017 obsolet wurde.
 
@@ -190,62 +190,62 @@ Sofern Hochschulen sich aber dafür entscheiden, eine geschlechtergerechte Schre
 Abschließend soll noch einmal die Gesellschaft für deutsche Sprache zitiert werden, die zur Nutzung des Neutrums lediglich das Bedenken hat, es "... dürfte in den Augen vieler nicht geeignet sein, Menschen zu bezeichnen." Es wird kein weiteres Argument ins Feld geführt als die Vermutung mangelnder Akzeptanz. Diese Vermutung kann schon jetzt falsch sein und wird durch den Einsatz des inklusiven Neutrums an Bildungseinrichtungen eine Korrektur erfahren. Zudem darf sicher ebenso vermutet werden, dass es schon jetzt in den Augen vieler eher schmeichelhaft ist, als "das Genie" bezeichnet zu werden.
 
 # 6. Quellen
-## AA, 2020
+#### AA, 2020
 (Auswärtiges Amt) German as a foreign language, 2020, https://www.auswaertiges-amt.de/en/newsroom/news/german-as-a-foriegn-language/2347090, Zugriff 13.5.2021  
 
-## BMBF, 2019
+#### BMBF, 2019
 (Bundesministerium für Bildung und Forschung), Mein Schlüssel zur Welt - Zahlen und Fakten, 2019, https://www.xn--mein-schlssel-zur-welt-0lc.de/de/helfen/zahlen-und-fakten/zahlen-und-fakten_node.html, Zugriff 13.5.2021  
 
-## BverfG, 2017
+#### BverfG, 2017
 (Bundesverfassungsgericht), Beschluss des Ersten Senats vom 10. Oktober 2017, 2017, https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/2017/10/rs20171010_1bvr201916.pdf?__blob=publicationFile&v=2, Zugriff 12.5.2021
 
-## DBL, 2020
+#### DBL, 2020
 (Deutscher Bundesverband für Logopädie e.V.), Auditive Verarbeitungs- und Wahrnehmungsstörung, 2020, https://www.dbl-ev.de/logopaedie/stoerungen-bei-kindern/stoerungsbereiche/komplexe-stoerungen/auditive-verarbeitungs-und-wahrnehmungsstoerung, Zugriff 13.5.2021
 
-## DBSV 3/2021
+#### DBSV 3/2021
 (Deutscher Blinden- und Sehbehindertenverband e.V), Gendern, 3/2021, https://www.dbsv.org/gendern.html#gendern, Zugriff 12.5.2021 
 
-## DBSV 1/2021 
+#### DBSV 1/2021 
 (Deutscher Blinden- und Sehbehindertenverband e.V), Zahlen & Fakten, 1/2021, https://www.dbsv.org/gendern.html#gendern, Zugriff 13.5.2021
 
-## DSB, 2021
+#### DSB, 2021
 (Deutscher Schwerhörigenbund e.V.), Statistiken, 2021, https://www.schwerhoerigen-netz.de/statistiken/?L=0, Zugriff 13.5.2021
 
-## GfdS, 2020
+#### GfdS, 2020
 (Gesellschaft für deutsche Sprache), Leitlinien der GfdS zu den Möglichkeiten des Genderings, 2020,  https://gfds.de/standpunkt-der-gfds-zu-einer-geschlechtergerechten-sprache/, Zugriff 12.5.2021
 
-## Kronschläger, Thomas, 2020
+#### Kronschläger, Thomas, 2020
 https://www.researchgate.net/publication/343974830_Entgendern_nach_Phettberg_im_Uberblick, Zugriff 12.5.2021
 
-## Kubelik, Thomas, 2015 
+#### Kubelik, Thomas, 2015 
 „Genug Gegendert“, Projekte Verlag, Rudolstadt, 2015
 
-## Kubelik, Thomas, 2016
+#### Kubelik, Thomas, 2016
 „Wie Gendern unsere Sprache verhunzt“, Symposium »Gender und Sexualpädagogik auf dem Prüfstand der Wissenschaften«, Stuttgart, 23.1.2016, https://www.youtube.com/watch?v=Ri-kVYDTEAk, Zugriff 12.5.2021
 
-## Olderdissen, Christine, 2020 
+#### Olderdissen, Christine, 2020 
 Luise F. Pusch und der Genderstern, 2020, https://www.genderleicht.de/luise-f-pusch-und-der-genderstern/, Zugriff 12.5.2021
 
-## Pusch, Luise, 1987 
+#### Pusch, Luise, 1987 
 "Totale Feminisierung" in Frau ohne Herz: feministische Lesbenzeitschrift, 1987, https://www.e-periodica.ch/cntmng?pid=les-002:1987:0::96, Zugriff 12.5.2021
 
-## RfdR, 2021
+#### RfdR, 2021
 (Rat für deutsche Rechtschreibung), Geschlechtergerechte Schreibung: Empfehlungen vom 26.03.2021. 2021,  https://www.rechtschreibrat.com/DOX/rfdr_PM_2021-03-26_Geschlechtergerechte_Schreibung.pdf, Zugriff 12.5.2021
 
-## RfdR, 2023
+#### RfdR, 2023
 (Rat für deutsche Rechtschreibung), Erläuterung und Begründung zum Ergänzungspassus „Sonderzeichen“ 15.12.2023. 2023,  https://www.rechtschreibrat.com/DOX/rfdr_PM_2023-12-20_Geschlechtergerechte_Schreibung_Erlaeuterungs-Begruendungspapier.pdf, Zugriff 29.12.2024
 
-## Schwarzer, Matthias, 2021 
+#### Schwarzer, Matthias, 2021 
 „Ärztys“ statt „Ärzt*innen“: Ein Sprachwissenschaftler will das Gendern verändern, 2021, https://www.rnd.de/medien/arztys-statt-arztinnen-ein-sprachwissenschaftler-will-das-gendern-verandern-YPQ55WPIAFGSJHL4LGRJOSNVAI.html, Zugriff 12.5.2021  
 
-## Sprache und Gendern, 2024
+#### Sprache und Gendern, 2024
 https://www.sprache-und-gendern.de/beitraege/das-generische-maskulinum, Zugriff 29.12.2024
 
-## FAZ, 2021 
+#### FAZ, 2021 
 (Frankfurter Allgemeine Zeitung), Frankreich verbietet schriftliches Gendern an Schulen, 2021, https://www.faz.net/aktuell/politik/ausland/frankreich-verbietet-schriftliches-gendern-an-schulen-17332003.html, Zugriff 17.5.2021  
 
-## Wikipedia, 2021 
+#### Wikipedia, 2021 
 Generisches Maskulinum, 2021 https://de.wikipedia.org/wiki/Generisches_Maskulinum#Sprachkritik_am_generischen_Maskulinum, Zugriff 13.5.2021
 
-## Winter, Gernot, 2024 
+#### Winter, Gernot, 2024 
 https://www.generisches-neutrum.com, Zugriff 29.12.2024
