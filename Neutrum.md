@@ -8,9 +8,9 @@ Das so entwickelte inklusive Neutrum besticht durch Einfachheit, Konsistenz und 
 Jirka R. Dell'Oro-Friedl | Prof. Dipl.-Ing., 5. Dan  | Hochschule Furtwangen - The Black Forest University |Donaueschingen im August 2026    
 
 Ältere Versionen im PDF-Format:  
-[Juni 2025 - Neutrum0625.pdf](/Neutrum0625.pdf)  
-[Dezember 2024 - Neutrum1224.pdf](/Neutrum1224.pdf)  
-[Mai 2021 - Neutrum0521.pdf](/Neutrum0521.pdf)  
+[Juni 2025 - Neutrum0625.pdf](https://jirkadelloro.github.io/Neutrum/Neutrum0625.pdf)  
+[Dezember 2024 - Neutrum1224.pdf](https://jirkadelloro.github.io/Neutrum/Neutrum1224.pdf)  
+[Mai 2021 - Neutrum0521.pdf](https://jirkadelloro.github.io/Neutrum/Neutrum0521.pdf)  
 
 # 1. Ausgangslage
 Es gibt heute einen ganzen Strauß von Möglichkeiten, unsere deutsche Sprache geschlechtergerecht zu gestalten. Die Gesellschaft für deutsche Sprache (GfdS) führt mittlerweile über 20 Varianten und Untervarianten auf ([GfdS, 2020](#gfds-2020)). Derzeit existiert allerdings noch keine allgemein akzeptierte Form. Das Feld ist offen für neue, bessere Vorschläge. Es existiert auch kein Gremium, welches eine Form für den Gebrauch als verbindlich festlegt. 
