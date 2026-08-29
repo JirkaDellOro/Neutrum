@@ -7,11 +7,6 @@ Das so entwickelte inklusive Neutrum besticht durch Einfachheit, Konsistenz und 
 
 Jirka R. Dell'Oro-Friedl | Prof. Dipl.-Ing., 5. Dan  | Hochschule Furtwangen - The Black Forest University | Donaueschingen im August 2026    
 
-Ältere Versionen im PDF-Format:  
-[Juni 2025 - Neutrum0625.pdf](https://jirkadelloro.github.io/Neutrum/Neutrum0625.pdf)  
-[Dezember 2024 - Neutrum1224.pdf](https://jirkadelloro.github.io/Neutrum/Neutrum1224.pdf)  
-[Mai 2021 - Neutrum0521.pdf](https://jirkadelloro.github.io/Neutrum/Neutrum0521.pdf)  
-
 # 1. Ausgangslage
 Es gibt heute einen ganzen Strauß von Möglichkeiten, unsere deutsche Sprache geschlechtergerecht zu gestalten. Die Gesellschaft für deutsche Sprache (GfdS) führt mittlerweile über 20 Varianten und Untervarianten auf ([GfdS, 2020](#gfds-2020)). Derzeit existiert allerdings noch keine allgemein akzeptierte Form. Das Feld ist offen für neue, bessere Vorschläge. Es existiert auch kein Gremium, welches eine Form für den Gebrauch als verbindlich festlegt. 
 
@@ -122,13 +117,18 @@ Zum Gendersternchen hat Luise Pusch übrigens folgende Meinung: „Und das ist e
 Der Verleger schlägt auf seiner Website ([Winter, 2024](#winter-gernot-2024)) das sogenannte „Generische Neutrum“ vor, das er in Unkenntnis der Vorarbeit von Luise Pusch 1993 entwickelt hat. Er hat sich mit den grammatikalischen Folgeerscheinungen beschäftigt, Deklinationstabellen erstellt, Überlegungen zum Umgang mit Pronomen angestellt und Probleme aufgedeckt. Die Kernregel besagt aber weiterhin, auf die weibliche Movierung ganz zu verzichten und lediglich konsequent den Artikel „das“ zu verwenden. Da die Deklination neutraler Artikel aber im Genitiv und im Dativ der Deklination des Maskulinum entspricht, ist dieses „generische Neutrum“ über weite Strecken nicht vom tradierten Sprachgebrauch zu unterscheiden. Das stellt zwar einen noch geringeren Eingriff in die Sprache dar als das inklusive Neutrum, macht aber damit Frauen und nicht binäre Personen weiterhin nicht sichtbar.  
 
 ## Thomas Kronschläger
-Der Germanist und Literaturdidaktiker an der Technischen Universität Braunschweig treibt einen dem inklusiven Neutrum ähnlichen Ansatz voran: das „Entgendern nach Phettberg“ ([Kronschläger, 2020](#kronschläger-thomas-2020)). Dabei wird ebenso konsequent der neutrale Artikel verwendet, bei den Substantiven wird jedoch einfach nach dem Wortstamm ein „y“ angehängt und im Plural ein weiteres „s“:  
-- das Study, die Studys  
-
-Dieser Ansatz hat trotz der vordergründigen Ähnlichkeit gegenüber dem inklusiven Neutrum Schwächen. Bezeichnungen, bei denen das biologische Geschlecht nur aus dem Genus erkennbar ist (bsp: Vorsitzende) bleiben unverändert, wodurch die bereits dargestellte Verwechslungsgefahr besteht. Beim Entgendern nach Phettberg soll hier ein „n.“ in Klammern aushelfen: „dem(n.) Vorsitzenden Bescheid geben“. Das widerspricht den Forderungen des Rates für deutsche Rechtschreibung nach Lesbarkeit und Vorlesbarkeit.  
+Der Germanist und Literaturdidaktiker an der Technischen Universität Braunschweig treibt einen dem inklusiven Neutrum ähnlichen Ansatz voran: das „Entgendern nach Phettberg“. Dabei wird ebenso konsequent der neutrale Artikel verwendet, die Bildung der Substantive erfolgt aber nach zwei sich teilweise widersprechenden Regeln. Laut ([Kronschläger, 2020](#kronschläger-thomas-2020)) wird der männlichen Form einfach ein „y“ angehängt, gegebenenfalls noch vorheriger Entfernung einer Endsilbe „er“. Nach ([Kronschläger, 2022](#kronschläger-thomas-2022)) aber wird das „y“ an den Wortstamm angefügt, der zunächst zu ermitteln ist. Im Plural kommt nach beiden Regeln am Ende ein „s“ dazu.  
+Durch die Abtrennung des Suffix „er“, welches Bedeutung trägt (ein Lehrer ist eine Person, die lehrt, eine Lehrerin ebenso und dabei weiblich), entstehen dabei schwer verständliche neue Wortschöpfungen wie "das Winzy" für "die Winzerin" oder "das Maly" für den Maler. Durch die Verwendung des Wortstamms werden zudem Homonyme konstruiert, also identische Worte mit unterschiedlicher Bedeutung. Aus dem Satz "Der Bürge oder die Bürgin bürgt für den Bürger oder die Bürgerin" wird "Das Bürgy bürgt für das Bürgy".  
 Vom Journalistinnenbund kommt aber weitere Kritik, wie die Sprecherin des Projektes „Genderleicht“, Christine Olderdissen, betont: „Die Entgendermethode nach Phettberg lässt keine Person mehr erkennen“. Durch die Reduktion auf den Wortstamm verschwindet das Geschlecht gänzlich, alle Geschlechter werden exkludiert. Das ist gerecht, geht aber „am Ziel vorbei“ ([Schwarzer, 2021](#schwarzer-matthias-2021)).  
-Erscheint der Unterschied zum inklusiven Neutrum vielleicht klein, so wird doch deutlich, dass Letzteres genau das Gewünschte erreicht: alle Geschlechter werden explizit inkludiert.  
-Zudem ist das inklusive Neutrum leichter gleichberechtigt aus der männlichen oder weiblichen Form im üblichen Sprachfluss abzuleiten und hat zu beiden die gleiche Distanz. Es muss nicht erst der Wortstamm ermittelt werden, was teilweise schwierig und fehlerträchtig ist.  
+Trotz vordergründiger Ähnlichkeit zum inklusiven Neutrum wird doch deutlich, dass Letzteres genau das Gewünschte erreicht: alle Geschlechter werden explizit inkludiert.  
+Zudem ist das inklusive Neutrum ganz leicht gleichberechtigt aus der männlichen oder weiblichen Form im üblichen Sprachfluss abzuleiten und hat zu beiden symmetrische Distanz. Es muss nicht erst der Wortstamm ermittelt werden, was teilweise schwierig und fehlerträchtig ist. Vor allem bleibt die Bedeutung der Suffix „er“ erhalten und die Wortschöpfungen sind intuitiv erfassbar.
+
+## Jirka Dell'Oro-Friedl
+Der erste Entwurf zum inklusiven Neutrum wurde 2021 publiziert. Seither wurde es weiterentwickelt und fortwährend geprüft, insbesondere durch Anwendung in akademischen Arbeiten. Vorangegangene Versionen sind als PDF-Dokumente abrufbar:  
+[Juni 2025 - Neutrum0625.pdf](https://jirkadelloro.github.io/Neutrum/Neutrum0625.pdf)  
+[Dezember 2024 - Neutrum1224.pdf](https://jirkadelloro.github.io/Neutrum/Neutrum1224.pdf)  
+[Mai 2021 - Neutrum0521.pdf](https://jirkadelloro.github.io/Neutrum/Neutrum0521.pdf)  
+
 
 # 4. Prüfung
 Das inklusive Neutrum soll in diesem Abschnitt gegen Beispiele aus der Literatur geprüft werden, die sich mit den Möglichkeiten und Problemen der geschlechtergerechten Sprache beschäftigen.
@@ -214,6 +214,9 @@ Abschließend soll noch einmal die Gesellschaft für deutsche Sprache zitiert we
 
 #### Kronschläger, Thomas, 2020
 https://www.researchgate.net/publication/343974830_Entgendern_nach_Phettberg_im_Uberblick, Zugriff 12.5.2021
+
+#### Kronschläger, Thomas, 2022
+https://www.bpb.de/shop/zeitschriften/apuz/geschlechtergerechte-sprache-2022/346085/entgendern-nach-phettberg/, Zugriff 29.8.2026
 
 #### Kubelik, Thomas, 2015 
 „Genug Gegendert“, Projekte Verlag, Rudolstadt, 2015
