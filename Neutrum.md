@@ -104,7 +104,7 @@ Die oben angeführten Kernregeln decken schon den größten Teil des üblichen S
 
 - Geschlechtsneutrale Personenbezeichnungen wie der Mensch, die Person, das Individuum bleiben selbstverständlich unverändert.  
 
-# 1. Vorangegangene Arbeiten
+# 2. Vorangegangene Arbeiten
 ## Luise Pusch
 Die Begründerin der feministischen Linguistik, Luise Pusch, entwickelte bereits 1980 einen Vorschlag, der dem inklusiven Neutrum schon nahe kommt, nämlich die femininen Wortendungen abzuschaffen und das Neutrum zu nutzen.  
 
@@ -130,7 +130,7 @@ Der erste Entwurf zum inklusiven Neutrum wurde 2021 publiziert. Seither wurde es
 [Mai 2021 - Neutrum0521.pdf](https://jirkadelloro.github.io/Neutrum/Neutrum0521.pdf)  
 
 
-# 1. Prüfung
+# 3. Prüfung
 Das inklusive Neutrum soll in diesem Abschnitt gegen Beispiele aus der Literatur geprüft werden, die sich mit den Möglichkeiten und Problemen der geschlechtergerechten Sprache beschäftigen.
 ## a. Mehrfachnennung ([Kubelik, 2016, 5:48](#kubelik-thomas-2016))  
 §22 des österreichischen Bundespersonalvertretungsgesetzes: „Die Sitzungen des Dienststellenausschusses sind von der Vorsitzenden oder vom Vorsitzenden und im Falle ihrer oder seiner Verhinderung von ihrem Stellvertreter oder ihrer Stellvertreterin oder seinem Stellvertreter oder seiner Stellvertreterin einzuberufen und vorzubereiten.“  
@@ -157,8 +157,8 @@ Einfach, lesbar, den Redefluss und die Intention erhaltend, besser so:
 Beim oben bereits ausgeführten Beispiel ([Pusch, 1987](#luise-pusch)) ist bekannt, dass Barbara, das Professori und das Architekti weiblich sind, es können also weiter die femininen Formen eingesetzt werden, sofern das biologische Geschlecht nicht verschleiert werden muss. Das Gutachteri und das Dozenti sind aber noch unbekannt und sollen daher das inklusive Neutrum erhalten. Der Abschnitt liest sich dann völlig natürlich so:  
 → **„Barbara ist eine gute Studentin; ihre Professorin ist sehr zufrieden mit ihr. Früher war sie übrigens Sekretärin bei einer Architektin. Im Moment suchen wir noch ein zweites Gutachteri für ihre Dissertation, am besten ein Dozenti, das etwas von Hydrogeologie versteht.“**  
 
-# 1. Übung
-Zur weiteren Prüfung folgen Beispiele, die das geneigte Leseri bitte selbst nach anderen Methoden in eine geschlechtergerechte Form zu bringen versuchen soll. Dabei ist zu beurteilen, wie sehr die Textmenge anschwillt und gleichzeitig Bedeutung, Verständlichkeit oder Eindeutigkeit verloren geht, ob die Methode überhaupt anwendbar ist und ob auch nicht binäre Menschen inkludiert sind. Die Auflösung mit inklusivem Neutrum ist bereits angeführt und dient dem Vergleich.  
+# 4. Übung
+Zur weiteren Prüfung folgen Beispiele, die das geneigte Leseri bitte selbst nach anderen Methoden in eine geschlechtergerechte Form zu bringen versuchen soll. Dabei ist zu beurteilen, wie sehr die Textmenge anschwillt und gleichzeitig Sprachvielfalt, Verständlichkeit, Bedeutung oder Eindeutigkeit verloren geht, ob die Methode überhaupt anwendbar ist und ob auch nicht binäre Menschen inkludiert sind. Die Auflösung mit inklusivem Neutrum ist bereits angeführt und dient dem Vergleich.  
 
 1. „Wenn in einer Beziehung etwas schief läuft, neigt jeder dazu, den anderen dafür verantwortlich zu machen“ ([Kubelik, 2015, S.104](#kubelik-thomas-2015))  
 → **„Wenn in einer Beziehung etwas schief läuft, neigt jedes dazu, das andere dafür verantwortlich zu machen“** 
@@ -169,7 +169,7 @@ Zur weiteren Prüfung folgen Beispiele, die das geneigte Leseri bitte selbst nac
 4. „Der Vorsitzende des Wandervereins bittet darum, dass jeder Wanderer dafür Sorge trägt, seinen Abfall zu Hause zu entsorgen und den lokalen Bauern, Winzern und deren Lehrlingen damit nicht zur Last zu fallen. Das gilt auch zur Fastnacht in Verkleidung als Hexe“  
 → **„Das Vorsitzendi des Wandervereins bittet darum, dass jedes Wanderi dafür Sorge trägt, seinen Abfall zu Hause zu entsorgen und den lokalen Baueris, Winzeris und deren Lehrlis damit nicht zur Last zu fallen. Das gilt auch zur Fastnacht in Verkleidung als Hexi“**
 
-# 1. Fazit
+# 5. Fazit
 Das inklusive Neutrum beseitigt elegant die Probleme, die anderen Ansätzen innewohnen. Die Formulierungen werden nicht aufgebläht, sondern werden teilweise gar kürzer, es sind alle Geschlechter angesprochen, nicht nur zwei oder gar keines, es entfallen irritierende Zeichen, es lässt sich leicht und völlig gewöhnlich sprechen und es entstehen keine Missverständnisse oder inkorrekten Formulierungen. Hinzu kommt, dass der Sprachklang des Deutschen, häufig als sehr hart und humorlos wahrgenommen, aufgelockert und leichter wird. Es kommt ein Schweizer oder gar südländischer Einschlag dazu, der sympathisch wirkt.  
 
 ## Reichhaltigkeit
@@ -186,7 +186,7 @@ Sofern Hochschulen sich aber dafür entscheiden, eine geschlechtergerechte Schre
 ## Bedenken
 Abschließend soll noch einmal die Gesellschaft für deutsche Sprache zitiert werden, die zur Nutzung des Neutrums lediglich das Bedenken hat, es „... dürfte in den Augen vieler nicht geeignet sein, Menschen zu bezeichnen.“ Es wird kein weiteres Argument ins Feld geführt als die Vermutung mangelnder Akzeptanz. Diese Vermutung kann schon jetzt falsch sein und wird durch den Einsatz des inklusiven Neutrums an Bildungseinrichtungen eine Korrektur erfahren. Zudem darf sicher ebenso vermutet werden, dass es schon jetzt in den Augen vieler eher schmeichelhaft ist, als „das Genie“ bezeichnet zu werden.
 
-# 1. Quellen
+# 6. Quellen
 #### AA, 2020
 (Auswärtiges Amt) German as a foreign language, 2020, https://www.auswaertiges-amt.de/en/newsroom/news/german-as-a-foriegn-language/2347090, Zugriff 13.5.2021  
 
