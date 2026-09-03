@@ -3,7 +3,7 @@
 Derzeit sind über zwanzig Möglichkeiten und Varianten der geschlechtergerechten Gestaltung deutscher Sprache in Gebrauch. Alle diese Formen werden letztlich allerdings abgelehnt, entweder von der Gesellschaft für deutsche Sprache, dem deutschen Rechtschreibrat oder von Verbänden der vielen Millionen in Bezug auf Sprache benachteiligter Menschen wie Seh- oder Hörgeschädigte und Menschen mit Leseschwäche. Zudem bringen viele Formen eine binäre Geschlechtervorstellung zum Ausdruck, die mit dem Beschluss des Deutschen Bundesverfassungsgerichts 2017 obsolet wurde.
 
 In diesem Artikel wird die Problematik eingehender behandelt und durch Quellen belegt, auf Basis der identifizierten Erfordernisse eine Alternative für die geschlechtergerechte bzw. geschlechtsneutrale Gestaltung deutscher Sprache logisch hergeleitet, mit ähnlichen Ansätzen verglichen und schließlich gegen andere Varianten geprüft.
-Das so entwickelte inklusive Neutrum besticht durch Einfachheit, Konsistenz und minimalen Eingriff in den üblichen Sprachgebrauch. In der weiteren Diskussion um das Thema "Gendern" ist es zu berücksichtigen.
+Das so entwickelte inklusive Neutrum besticht durch Einfachheit, Konsistenz und minimalen Eingriff in den üblichen Sprachgebrauch. In der weiteren Diskussion um das Thema „Gendern“ ist es zu berücksichtigen.
 
 Jirka R. Dell'Oro-Friedl | Prof. Dipl.-Ing., 5. Dan  | Hochschule Furtwangen - The Black Forest University | Donaueschingen im August 2026    
 
@@ -15,7 +15,7 @@ Wohl aber haben verschiedene Gremien einen Großteil der bekannten Möglichkeite
 
 - die Doppelnennung, die Schrägstrichlösung und Ersatzformen.  
 
-Binnenmajuskel, Gendersternchen, Doppelpunkt usw. werden alle gänzlich zurückgewiesen. Aber auch die Empfehlung ist explizit nur dann gegeben, wenn von einer zweigeschlechtlichen (binären) Gesellschaft ausgegangen wird. Mit dem Beschluss des Deutschen Bundesverfassungsgerichts vom 10.10.2017 ([BverfG, 2017](#bverfg-2017)) ist aber die Sichtweise, es gebe nur zwei Geschlechter, obsolet geworden. Die GfdS schreibt dazu: "War man bisher in weiten Teilen der Gesellschaft von einem zweigeschlechtlichen Modell ausgegangen, so befindet sich diese Sichtweise derzeit im Umbruch und es wird auch gesetzlich auf die offizielle Anerkennung eines dritten Geschlechts hingewirkt... Da es für das dritte Geschlecht jedoch bislang weder eindeutige Bezeichnungen noch adäquate Pronomen, Anrede- oder Flexionsformen gibt, soll dieser Punkt für den Moment unberücksichtigt bleiben" 
+Binnenmajuskel, Gendersternchen, Doppelpunkt usw. werden alle gänzlich zurückgewiesen. Aber auch die Empfehlung ist explizit nur dann gegeben, wenn von einer zweigeschlechtlichen (binären) Gesellschaft ausgegangen wird. Mit dem Beschluss des Deutschen Bundesverfassungsgerichts vom 10.10.2017 ([BverfG, 2017](#bverfg-2017)) ist aber die Sichtweise, es gebe nur zwei Geschlechter, obsolet geworden. Die GfdS schreibt dazu: „War man bisher in weiten Teilen der Gesellschaft von einem zweigeschlechtlichen Modell ausgegangen, so befindet sich diese Sichtweise derzeit im Umbruch und es wird auch gesetzlich auf die offizielle Anerkennung eines dritten Geschlechts hingewirkt... Da es für das dritte Geschlecht jedoch bislang weder eindeutige Bezeichnungen noch adäquate Pronomen, Anrede- oder Flexionsformen gibt, soll dieser Punkt für den Moment unberücksichtigt bleiben“ 
 
 So scheitern also auch die Empfehlungen der GfdS. Zwar wird bei Ersatzformen nicht versucht, alle Geschlechter explizit zu inkludieren, sondern unter Vermeidung des Bezugs auf Geschlechter darzustellen, dass das Geschlecht irrelevant ist (Bsp.: Studierende). Aber nicht nur, dass manche Ersatzformen nicht sinnvoll gebildet werden können (Bsp.: Autor), weshalb es dann erforderlich wird, auf sogenannte Fluchtwörter (Bsp.: Schriftstellende) auszuweichen, im Singular werden dann trotzdem wieder nur zwei Geschlechter sichtbar:  
 
@@ -56,7 +56,7 @@ Die Sinnhaftigkeit einer Veränderungen des Sprachgebrauchs zur Unterstützung d
 
 In der Folge wird gezeigt, wie eine simple und logische Vorgehensweise zu einem tragfähigen Ansatz bei minimalen Änderungen führt.  
 
-# 2. Regeln
+# 1. Regeln
 Im Kern geht es bei der geschlechtergerechten Sprache um das generische Maskulinum, mit dem bislang sämtliche Geschlechter erfasst werden, was aber auch mit dem männlichen Geschlecht assoziiert wird ([Wikipedia, 2021](#wikipedia-2021)). Es wird Ersatz gesucht. Wenn in der Wahrnehmung das Maskulinum alle Geschlechter außer dem männlichen, das Femininum alle außer dem weiblichen ausschließt, bleibt aber im Deutschen eine weitere Option, die gleichberechtigt verankert ist und natürlich verwendet wird: das Neutrum. Das Argument, dass es nicht für Menschen gebraucht werden sollte, lässt sich sehr schnell mit dem Verweis auf das im Sprachgebrauch übliche Individuum, das menschliche Wesen, das Gegenüber, das Mitglied, das Sport-Ass, das Oberhaupt, das Genie usw. zerschlagen. Diese Begriffe sind geschlechtsneutral und für Menschen angebracht, ohne irgendein Geschlecht in der Wahrnehmung auszuschließen oder abzuwerten. Ganz im Gegenteil sind manche Aufwertungen dabei.
 
 ## Kernregel
@@ -104,7 +104,7 @@ Die oben angeführten Kernregeln decken schon den größten Teil des üblichen S
 
 - Geschlechtsneutrale Personenbezeichnungen wie der Mensch, die Person, das Individuum bleiben selbstverständlich unverändert.  
 
-# 3. Vorangegangene Arbeiten
+# 1. Vorangegangene Arbeiten
 ## Luise Pusch
 Die Begründerin der feministischen Linguistik, Luise Pusch, entwickelte bereits 1980 einen Vorschlag, der dem inklusiven Neutrum schon nahe kommt, nämlich die femininen Wortendungen abzuschaffen und das Neutrum zu nutzen.  
 
@@ -114,11 +114,11 @@ Luise Pusch schlug dann aber einen anderen Weg ein. In ihrem Artikel „Totale F
 Zum Gendersternchen hat Luise Pusch übrigens folgende Meinung: „Und das ist ein Fehler: Männer bekommen damit den Wortstamm und die Frauen wieder bloß die blöde Endung –innen.“ ([Olderdissen, 2020](#olderdissen-christine-2020))  
 
 ## Gernot Winter
-Der Verleger schlägt auf seiner Website ([Winter, 2024](#winter-gernot-2024)) das sogenannte „Generische Neutrum“ vor, das er in Unkenntnis der Vorarbeit von Luise Pusch 1993 entwickelt hat. Er hat sich mit den grammatikalischen Folgeerscheinungen beschäftigt, Deklinationstabellen erstellt, Überlegungen zum Umgang mit Pronomen angestellt und Probleme aufgedeckt. Die Kernregel besagt aber weiterhin, auf die weibliche Movierung ganz zu verzichten und lediglich konsequent den Artikel „das“ zu verwenden. Da die Deklination neutraler Artikel aber im Genitiv und im Dativ der Deklination des Maskulinum entspricht, ist dieses „generische Neutrum“ über weite Strecken nicht vom tradierten Sprachgebrauch zu unterscheiden. Das stellt zwar einen noch geringeren Eingriff in die Sprache dar als das inklusive Neutrum, macht aber damit Frauen und nicht binäre Personen weiterhin nicht sichtbar.  
+Der Verleger schlägt auf seiner Website ([Winter, 2024](#winter-gernot-2024)) das sogenannte „Generische Neutrum“ vor, das er in Unkenntnis der Vorarbeit von Luise Pusch 1993 entwickelt hat. Er hat sich mit den grammatikalischen Folgeerscheinungen beschäftigt, Deklinationstabellen erstellt, Überlegungen zum Umgang mit Pronomen angestellt und Probleme aufgedeckt. Die Kernregel besagt aber weiterhin, auf die weibliche Movierung ganz zu verzichten und lediglich konsequent den Artikel „das“ zu verwenden. Da die Deklination neutraler Artikel aber im Genitiv und im Dativ der Deklination des Maskulinum entspricht, ist dieses „generische Neutrum“über weite Strecken nicht vom tradierten Sprachgebrauch zu unterscheiden. Das stellt zwar einen noch geringeren Eingriff in die Sprache dar als das inklusive Neutrum, macht aber damit Frauen und nicht binäre Personen weiterhin nicht sichtbar.  
 
 ## Thomas Kronschläger
 Der Germanist und Literaturdidaktiker an der Technischen Universität Braunschweig treibt einen dem inklusiven Neutrum ähnlichen Ansatz voran: das „Entgendern nach Phettberg“. Dabei wird ebenso konsequent der neutrale Artikel verwendet, die Bildung der Substantive erfolgt aber nach zwei sich teilweise widersprechenden Regeln. Laut ([Kronschläger, 2020](#kronschläger-thomas-2020)) wird der männlichen Form einfach ein „y“ angehängt, gegebenenfalls nach vorheriger Entfernung einer Endsilbe „er“. Nach ([Kronschläger, 2022](#kronschläger-thomas-2022)) aber wird das „y“ an den Wortstamm angefügt, der zunächst zu ermitteln ist. Im Plural kommt nach beiden Regeln am Ende ein „s“ dazu.  
-Durch die Abtrennung des Suffix „er“, welches Bedeutung trägt (ein Lehrer ist eine Person, die lehrt, eine Lehrerin ebenso und dabei weiblich), entstehen dabei schwer verständliche neue Wortschöpfungen wie "das Winzy" für "die Winzerin" oder "das Maly" für den Maler. Durch die Verwendung des Wortstamms werden zudem Homonyme konstruiert, also identische Worte mit unterschiedlicher Bedeutung. Aus dem Satz "Der Bürge oder die Bürgin bürgt für den Bürger oder die Bürgerin" wird "Das Bürgy bürgt für das Bürgy".  
+Durch die Abtrennung des Suffix „er“, welches Bedeutung trägt (ein Lehrer ist eine Person, die lehrt, eine Lehrerin ebenso und dabei weiblich), entstehen dabei schwer verständliche neue Wortschöpfungen wie „das Winzy“ für „die Winzerin“ oder „das Maly“ für den Maler. Durch die Verwendung des Wortstamms werden zudem Homonyme konstruiert, also identische Worte mit unterschiedlicher Bedeutung. Aus dem Satz „Der Bürge oder die Bürgin bürgt für den Bürger oder die Bürgerin“ wird „Das Bürgy bürgt für das Bürgy“.  
 Vom Journalistinnenbund kommt aber weitere Kritik, wie die Sprecherin des Projektes „Genderleicht“, Christine Olderdissen, betont: „Die Entgendermethode nach Phettberg lässt keine Person mehr erkennen“. Durch die Reduktion auf den Wortstamm verschwindet das Geschlecht gänzlich, alle Geschlechter werden exkludiert. Das ist gerecht, geht aber „am Ziel vorbei“ ([Schwarzer, 2021](#schwarzer-matthias-2021)).  
 Trotz vordergründiger Ähnlichkeit zum inklusiven Neutrum wird doch deutlich, dass Letzteres genau das Gewünschte erreicht: alle Geschlechter werden explizit inkludiert.  
 Zudem ist das inklusive Neutrum ganz leicht gleichberechtigt aus der männlichen oder weiblichen Form im üblichen Sprachfluss abzuleiten und hat zu beiden symmetrische Distanz. Es muss nicht erst der Wortstamm ermittelt werden, was teilweise schwierig und fehlerträchtig ist. Vor allem bleibt die Struktur der Worte und die Bedeutung des Suffix „er“ erhalten, die Wortschöpfungen sind ganz intuitiv erfassbar.
@@ -130,7 +130,7 @@ Der erste Entwurf zum inklusiven Neutrum wurde 2021 publiziert. Seither wurde es
 [Mai 2021 - Neutrum0521.pdf](https://jirkadelloro.github.io/Neutrum/Neutrum0521.pdf)  
 
 
-# 4. Prüfung
+# 1. Prüfung
 Das inklusive Neutrum soll in diesem Abschnitt gegen Beispiele aus der Literatur geprüft werden, die sich mit den Möglichkeiten und Problemen der geschlechtergerechten Sprache beschäftigen.
 ## a. Mehrfachnennung ([Kubelik, 2016, 5:48](#kubelik-thomas-2016))  
 §22 des österreichischen Bundespersonalvertretungsgesetzes: „Die Sitzungen des Dienststellenausschusses sind von der Vorsitzenden oder vom Vorsitzenden und im Falle ihrer oder seiner Verhinderung von ihrem Stellvertreter oder ihrer Stellvertreterin oder seinem Stellvertreter oder seiner Stellvertreterin einzuberufen und vorzubereiten.“  
@@ -157,21 +157,20 @@ Einfach, lesbar, den Redefluss und die Intention erhaltend, besser so:
 Beim oben bereits ausgeführten Beispiel ([Pusch, 1987](#luise-pusch)) ist bekannt, dass Barbara, das Professori und das Architekti weiblich sind, es können also weiter die femininen Formen eingesetzt werden, sofern das biologische Geschlecht nicht verschleiert werden muss. Das Gutachteri und das Dozenti sind aber noch unbekannt und sollen daher das inklusive Neutrum erhalten. Der Abschnitt liest sich dann völlig natürlich so:  
 → **„Barbara ist eine gute Studentin; ihre Professorin ist sehr zufrieden mit ihr. Früher war sie übrigens Sekretärin bei einer Architektin. Im Moment suchen wir noch ein zweites Gutachteri für ihre Dissertation, am besten ein Dozenti, das etwas von Hydrogeologie versteht.“**  
 
-## g. Aufgaben
-Zur weiteren Prüfung folgen Beispiele, die das geneigte Leseri bitte selbst nach anderen Methoden in eine geschlechtergerechte Form zu bringen versuchen soll, und die Auflösung mit inklusivem Neutrum  
-### Medizin
-Die Satzfolge „Die Müllers sind Mediziner. Ihre Kinder sind alle Ärzte geworden. Eltern sind generell wohl wichtige Ratgeber für ihre Kinder.“ ([Vgl. Kubelik, 2015, S.103](#kubelik-thomas-2015))  
-→ **„Die Müllers sind Medizineris. Ihre Kinder sind alle Arztis geworden. Eltern sind generell wohl wichtige Ratgeberis für ihre Kinder.“** 
-### Beziehung
-„Wenn in einer Beziehung etwas schief läuft, neigt jeder dazu, den anderen dafür verantwortlich zu machen“ ([Kubelik, 2015, S.104](#kubelik-thomas-2015))  
-→ **„Wenn in einer Beziehung etwas schief läuft, neigt jedes dazu, das andere dafür verantwortlich zu machen“** 
-1. „In einer Ehe sollen beide Partner gleichberechtigt sein“ ([Kubelik, 2015, S.105](#kubelik-thomas-2015))  
-→ **„In einer Ehe sollen beide Partneris gleichberechtigt sein“**
-1.  „Frauen sind die besseren Autofahrer“ ([Kubelik, 2015, S.105](#kubelik-thomas-2015))  
-→ **„Frauen sind die besseren Autofahreris“**  
+# 1. Übung
+Zur weiteren Prüfung folgen Beispiele, die das geneigte Leseri bitte selbst nach anderen Methoden in eine geschlechtergerechte Form zu bringen versuchen soll. Dabei ist zu beurteilen, wie sehr die Textmenge anschwillt und gleichzeitig Bedeutung, Verständlichkeit oder Eindeutigkeit verloren geht, ob die Methode überhaupt anwendbar ist und ob auch nicht binäre Menschen inkludiert sind. Die Auflösung mit inklusivem Neutrum ist bereits angeführt und dient dem Vergleich.  
 
-# 5. Fazit
-Das inklusive Neutrum beseitigt elegant alle Probleme, die anderen Ansätzen innewohnen. Die Formulierungen werden nicht aufgebläht, sondern werden teilweise gar kürzer, es sind alle Geschlechter angesprochen, nicht nur zwei oder gar keines, es entfallen irritierende Zeichen, es lässt sich leicht und völlig gewöhnlich sprechen und es entstehen keine Missverständnisse oder inkorrekten Formulierungen. Hinzu kommt, dass der Sprachklang des Deutschen, häufig als sehr hart und humorlos wahrgenommen, aufgelockert und leichter wird. Es kommt ein Schweizer oder gar südländischer Einschlag dazu, der sympathisch wirkt.  
+1. „Wenn in einer Beziehung etwas schief läuft, neigt jeder dazu, den anderen dafür verantwortlich zu machen“ ([Kubelik, 2015, S.104](#kubelik-thomas-2015))  
+→ **„Wenn in einer Beziehung etwas schief läuft, neigt jedes dazu, das andere dafür verantwortlich zu machen“** 
+2. „In einer Ehe sollen beide Partner gleichberechtigt sein“ ([Kubelik, 2015, S.105](#kubelik-thomas-2015))  
+→ **„In einer Ehe sollen beide Partneris gleichberechtigt sein“**
+3. „Frauen sind die besseren Autofahrer“ ([Kubelik, 2015, S.105](#kubelik-thomas-2015))  
+→ **„Frauen sind die besseren Autofahreris“**  
+4. „Der Vorsitzende des Wandervereins bittet darum, dass jeder Wanderer dafür Sorge trägt, seinen Abfall zu Hause zu entsorgen und den lokalen Bauern, Winzern und deren Lehrlingen damit nicht zur Last zu fallen. Das gilt auch zur Fastnacht in Verkleidung als Hexe“  
+→ **„Das Vorsitzendi des Wandervereins bittet darum, dass jedes Wanderi dafür Sorge trägt, seinen Abfall zu Hause zu entsorgen und den lokalen Baueris, Winzeris und deren Lehrlis damit nicht zur Last zu fallen. Das gilt auch zur Fastnacht in Verkleidung als Hexi“**
+
+# 1. Fazit
+Das inklusive Neutrum beseitigt elegant die Probleme, die anderen Ansätzen innewohnen. Die Formulierungen werden nicht aufgebläht, sondern werden teilweise gar kürzer, es sind alle Geschlechter angesprochen, nicht nur zwei oder gar keines, es entfallen irritierende Zeichen, es lässt sich leicht und völlig gewöhnlich sprechen und es entstehen keine Missverständnisse oder inkorrekten Formulierungen. Hinzu kommt, dass der Sprachklang des Deutschen, häufig als sehr hart und humorlos wahrgenommen, aufgelockert und leichter wird. Es kommt ein Schweizer oder gar südländischer Einschlag dazu, der sympathisch wirkt.  
 
 ## Reichhaltigkeit
 Ebenso wird von Gender-Gegneris gerne ins Feld geführt, dass die Sprache durch das Gendern verarmt, weil Autoris Formulierungen ganz aus dem Sprachgebrauch streichen (z.B. Autor), um Angriffspunkte zu vermeiden. Das inklusive Neutrum lässt alle Formulierungen weiter zu. Ist es, was sicher eine Ausnahme sein wird, doch einmal erforderlich, gezielt den Fokus nur auf das männliche oder das weibliche biologische Geschlecht zu legen, stehen die entsprechenden Formen weiterhin zur Verfügung. Das inklusive Neutrum bereichert und präzisiert also unsere Sprache auf sehr einfache Weise.  
@@ -185,9 +184,9 @@ Auch die Kritik, durch das „Gendern“ wird ständig auf biologische Geschlech
 Sofern Hochschulen sich aber dafür entscheiden, eine geschlechtergerechte Schreibweise fördern zu wollen, sollte das inklusive Neutrum zur Anwendung kommen. Wie auch bezüglich wissenschaftlicher Theorien, muss sich in einem akademischen Umfeld die einfachste Vorgehensweise durchsetzen, sofern mehrere gleichwertig erscheinende konkurrieren. Das inklusive Neutrum ist äußerst simpel und stellt nur einen minimalinvasiven Eingriff in die Sprache dar. Folglich ist das inklusive Neutrum für den Einsatz an Bildungseinrichtungen dringend zu empfehlen, um von dort seinen Weg in die allgemeine deutsche Sprachkultur zu finden.  
 
 ## Bedenken
-Abschließend soll noch einmal die Gesellschaft für deutsche Sprache zitiert werden, die zur Nutzung des Neutrums lediglich das Bedenken hat, es "... dürfte in den Augen vieler nicht geeignet sein, Menschen zu bezeichnen." Es wird kein weiteres Argument ins Feld geführt als die Vermutung mangelnder Akzeptanz. Diese Vermutung kann schon jetzt falsch sein und wird durch den Einsatz des inklusiven Neutrums an Bildungseinrichtungen eine Korrektur erfahren. Zudem darf sicher ebenso vermutet werden, dass es schon jetzt in den Augen vieler eher schmeichelhaft ist, als "das Genie" bezeichnet zu werden.
+Abschließend soll noch einmal die Gesellschaft für deutsche Sprache zitiert werden, die zur Nutzung des Neutrums lediglich das Bedenken hat, es „... dürfte in den Augen vieler nicht geeignet sein, Menschen zu bezeichnen.“ Es wird kein weiteres Argument ins Feld geführt als die Vermutung mangelnder Akzeptanz. Diese Vermutung kann schon jetzt falsch sein und wird durch den Einsatz des inklusiven Neutrums an Bildungseinrichtungen eine Korrektur erfahren. Zudem darf sicher ebenso vermutet werden, dass es schon jetzt in den Augen vieler eher schmeichelhaft ist, als „das Genie“ bezeichnet zu werden.
 
-# 6. Quellen
+# 1. Quellen
 #### AA, 2020
 (Auswärtiges Amt) German as a foreign language, 2020, https://www.auswaertiges-amt.de/en/newsroom/news/german-as-a-foriegn-language/2347090, Zugriff 13.5.2021  
 
@@ -228,7 +227,7 @@ https://www.bpb.de/shop/zeitschriften/apuz/geschlechtergerechte-sprache-2022/346
 Luise F. Pusch und der Genderstern, 2020, https://www.genderleicht.de/luise-f-pusch-und-der-genderstern/, Zugriff 12.5.2021
 
 #### Pusch, Luise, 1987 
-"Totale Feminisierung" in Frau ohne Herz: feministische Lesbenzeitschrift, 1987, https://www.e-periodica.ch/cntmng?pid=les-002:1987:0::96, Zugriff 12.5.2021
+„Totale Feminisierung“ in Frau ohne Herz: feministische Lesbenzeitschrift, 1987, https://www.e-periodica.ch/cntmng?pid=les-002:1987:0::96, Zugriff 12.5.2021
 
 #### RfdR, 2021
 (Rat für deutsche Rechtschreibung), Geschlechtergerechte Schreibung: Empfehlungen vom 26.03.2021. 2021,  https://www.rechtschreibrat.com/DOX/rfdr_PM_2021-03-26_Geschlechtergerechte_Schreibung.pdf, Zugriff 12.5.2021
