@@ -183,6 +183,14 @@ Auch die Kritik, durch das „Gendern“ wird ständig auf biologische Geschlech
 
 Sofern Hochschulen sich aber dafür entscheiden, eine geschlechtergerechte Schreibweise fördern zu wollen, sollte das inklusive Neutrum zur Anwendung kommen. Wie auch bezüglich wissenschaftlicher Theorien, muss sich in einem akademischen Umfeld die einfachste Vorgehensweise durchsetzen, sofern mehrere gleichwertig erscheinende konkurrieren. Das inklusive Neutrum ist äußerst simpel und stellt nur einen minimalinvasiven Eingriff in die Sprache dar. Folglich ist das inklusive Neutrum für den Einsatz an Bildungseinrichtungen dringend zu empfehlen, um von dort seinen Weg in die allgemeine deutsche Sprachkultur zu finden.  
 
+### Hinweis
+Es erscheint sinnvoll, Leseris auf die Verwendung des inklusiven Neutrums hinzuweisen. Hierzu wird empfohlen, den folgenden Absatz zu verwenden.
+
+**Hinweis zur geschlechtergerechten Sprache**  
+In dieser Arbeit wird das „inklusive Neutrum“ verwendet, ein an der Hochschule Furtwangen entwickelter Vorschlag für geschlechtergerechte Sprache. Dabei werden die üblichen binären Personenbezeichnungen durch zusätzliche neutrale Formen ergänzt. Das inklusive Neutrum erfordert keine Sonderzeichen, Doppelnennungen, Substantivierungen oder Ausweichformulierungen und erhält den gewohnten Duktus der deutschen Sprache. Es gewährleistet eine möglichst hohe Inklusivität, auch für Menschen mit Beeinträchtigungen, sowie eine diskriminierungssensible und wissenschaftlich angemessene Ausdrucksweise auf Basis sehr einfacher Regeln. Seine Verwendung in dieser Arbeit dient dazu, alle Geschlechter sprachlich einzubeziehen, ohne die Verständlichkeit der Texte zu beeinträchtigen.  
+https://das-inklusive-neutrum.de/
+
+
 ## Bedenken
 Abschließend soll noch einmal die Gesellschaft für deutsche Sprache zitiert werden, die zur Nutzung des Neutrums lediglich das Bedenken hat, es „... dürfte in den Augen vieler nicht geeignet sein, Menschen zu bezeichnen.“ Es wird kein weiteres Argument ins Feld geführt als die Vermutung mangelnder Akzeptanz. Diese Vermutung kann schon jetzt falsch sein und wird durch den Einsatz des inklusiven Neutrums an Bildungseinrichtungen eine Korrektur erfahren. Zudem darf sicher ebenso vermutet werden, dass es schon jetzt in den Augen vieler eher schmeichelhaft ist, als „das Genie“ bezeichnet zu werden.
 
